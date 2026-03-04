@@ -1,0 +1,3 @@
+Mata Kuliah Struktur Data Prodi Pendidikan Teknik Informatika
+Kelompok A4:
+1. Aprian Widhi Wibowo - A710250006
